@@ -1,86 +1,132 @@
 <h1 align="center"> Aditya Bhardwaj | Computer Science Engineering Student</h1>
 <p align="center">
-  <strong>Building robust engineering foundations • Scaling knowledge through continuous iteration • Owning the learning curve</strong>
+  <strong>Cloud-enabled • MERN-powered • DevOps-aware • Committed to engineering excellence</strong>
 </p>
 
 ---
 
-##  Strategic Profile Snapshot
+##  Strategic Profile Snapshot  
 
-I’m a forward-thinking Computer Science Engineering student from **Jodhpur Institute of Engineering & Technology**, specializing in **Java, Data Structures & Algorithms, Database Systems, and full-stack development**.
+I’m a forward-driven **Computer Science Engineering student at JIET**, specializing in **Cloud Computing, Full-Stack (MERN), Java, DSA, and DevOps automation**.  
 
-I operate with a builder mindset — disciplined, detail-oriented, and focused on engineering solutions that actually move the needle.  
-My long-term north star is simple: **create value through technology that scales, performs, and endures.**
+I thrive at the intersection of **software engineering + cloud infrastructure + scalable systems**, with hands-on experience building production-grade applications, CI/CD pipelines, smart IoT systems, and secure full-stack platforms.  
 
----
-
-##  Social Presence
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/aaditya-bhardwaj-61641624b))
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([YOUR_TWITTER_URL](https://x.com/imaadi_04?t=K2ubYNyF_yJS9nDwh7GUlQ&s=09))
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)]()
+My guiding principle:  
+**Ship value. Learn aggressively. Build systems that scale.**
 
 ---
 
-##  Core Competencies
+##  Social Presence  
 
-I’m committed to strong engineering fundamentals and problem-solving excellence.  
-Here’s the current stack I’m scaling up:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-bhardwaj-61641624b)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/imaadi_04?t=K2ubYNyF_yJS9nDwh7GUlQ&s=09)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imaadi07)
 
-### **🧠 Languages & Fundamentals**
+---
+
+##  Core Competencies  
+
+I bring a solutions-oriented mindset backed by strong engineering fundamentals.
+
+### ** Programming & Core CS**
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge)
 
-### ** Backend & Dev Tools**
+---
+
+### ** Full-Stack Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### ** DevOps & Infrastructure**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+![Containers](https://img.shields.io/badge/Containers-0A66C2?style=for-the-badge)
+
+---
+
+### ** Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### ** Frontend Ecosystem**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-
----
-
-##  Featured Projects
-
-### 🔹 **Expense Tracker (Java + SQLite)**
-A lightweight, modular financial tracking application engineered using Java and SQLite. Designed with clean separation of layers and optimized CRUD operations.
-
-### 🔹 **Student Result Management System (Java + DBMS + HTML)**
-Full-stack academic record management platform featuring dynamic data handling, input validation, and DB-driven workflows.
-
-### 🔹 **DSA Practice Repository**
-A curated collection of data structure and algorithm implementations focused on scalability, clarity, and industry-standard patterns.
+![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 
 ---
 
-##  GitHub Intelligence Dashboard
+##  Featured Projects  
+
+### 🔹 **Smart Flowerpot System — IoT + Cloud + MERN**
+**Tech:** ESP32, MongoDB, Node.js, Blynk Server, Passport.js  
+**GitHub:** https://github.com/imaadi07/Flower_Pot  
+
+- Real-time soil moisture monitoring via IoT (ESP32 + IR sensors)  
+- Backend integrated with Blynk IoT server; data stored in MongoDB  
+- User-authenticated dashboards using Passport.js  
+
+---
+
+### 🔹 **Student Council Election System — Secure Voting Platform**  
+**Tech:** React, Vite, TailwindCSS, MongoDB  
+**GitHub:** https://github.com/imaadi07/Student-Election  
+
+- Role-based login for students & admins  
+- Enforced one-vote-per-position rules  
+- Dynamic admin dashboards for managing nominations and results visibility  
+
+---
+
+### 🔹 **Online Compiler — Secure Server-Side Execution Engine**  
+**Tech:** Node.js, Express.js, Docker, Child Process  
+**GitHub:** https://github.com/imaadi07/Online-Code-Compiler-Editor  
+
+- Users can write/execute Python code in the browser  
+- Execution sandboxed through Docker + timeouts  
+- Real-time I/O interface with safe exception handling  
+
+---
+
+##  Certifications  
+- Cloud Computing Certification  
+- React.js Certification  
+- Web Development Certification  
+
+---
+
+##  GitHub Intelligence Dashboard  
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=imaadi07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaadi07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-##  Activity Graph
+##  Activity Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imaadi07&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
 ##  Mission Statement  
-I’m playing the long game — building capabilities, sharpening fundamentals, and continually shipping projects that demonstrate ownership and engineering discipline.
 
-Let’s connect and build something impactful.
+I’m committed to long-term engineering excellence —  
+sharpening fundamentals, scaling my technical toolkit, and delivering real-world solutions that reflect ownership and discipline.
+
+Let’s collaborate and build something that creates impact.
 
 ---
 
