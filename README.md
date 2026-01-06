@@ -5,8 +5,6 @@
 
 ---
 
-##  Strategic Profile Snapshot  
-
 I’m a forward-driven **Computer Science Engineering student at JIET**, specializing in **Cloud Computing, Full-Stack (MERN), Java, DSA, and DevOps automation**.  
 
 I thrive at the intersection of **software engineering + cloud infrastructure + scalable systems**, with hands-on experience building production-grade applications, CI/CD pipelines, smart IoT systems, and secure full-stack platforms.  
@@ -33,7 +31,6 @@ I bring a solutions-oriented mindset backed by strong engineering fundamentals.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge)
 
 ---
 
@@ -63,17 +60,6 @@ I bring a solutions-oriented mindset backed by strong engineering fundamentals.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 
----
-
-##  Featured Projects  
-
-### 🔹 **Smart Flowerpot System — IoT + Cloud + MERN**
-**Tech:** ESP32, MongoDB, Node.js, Blynk Server, Passport.js  
-**GitHub:** https://github.com/imaadi07/Flower_Pot  
-
-- Real-time soil moisture monitoring via IoT (ESP32 + IR sensors)  
-- Backend integrated with Blynk IoT server; data stored in MongoDB  
-- User-authenticated dashboards using Passport.js  
 
 ---
 
@@ -129,7 +115,3 @@ sharpening fundamentals, scaling my technical toolkit, and delivering real-world
 Let’s collaborate and build something that creates impact.
 
 ---
-
-<p align="center">
-  <i>“Consistency compounds. Engineering excellence is earned, not proclaimed.”</i>
-</p>
