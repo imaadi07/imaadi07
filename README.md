@@ -1,4 +1,4 @@
-<h1 align="center"> Aditya Bhardwaj | Computer Science Engineering Student</h1>
+<h1 align="center"> Aditya Bhardwaj</h1>
 <p align="center">
   <strong>Cloud-enabled • MERN-powered • DevOps-aware • Committed to engineering excellence</strong>
 </p>
@@ -26,7 +26,7 @@ My guiding principle:
 
 I bring a solutions-oriented mindset backed by strong engineering fundamentals.
 
-### ** Programming & Core CS**
+### Programming & Core CS
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -34,7 +34,7 @@ I bring a solutions-oriented mindset backed by strong engineering fundamentals.
 
 ---
 
-### ** Full-Stack Development**
+### Full-Stack Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -44,7 +44,7 @@ I bring a solutions-oriented mindset backed by strong engineering fundamentals.
 
 ---
 
-### ** DevOps & Infrastructure**
+### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -53,7 +53,7 @@ I bring a solutions-oriented mindset backed by strong engineering fundamentals.
 
 ---
 
-### ** Tools & Platforms**
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
@@ -63,7 +63,7 @@ I bring a solutions-oriented mindset backed by strong engineering fundamentals.
 
 ---
 
-### 🔹 **Student Council Election System — Secure Voting Platform**  
+### 🔹 Student Council Election System — Secure Voting Platform**  
 **Tech:** React, Vite, TailwindCSS, MongoDB  
 **GitHub:** https://github.com/imaadi07/Student-Election  
 
