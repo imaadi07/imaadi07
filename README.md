@@ -63,34 +63,6 @@ I bring a solutions-oriented mindset backed by strong engineering fundamentals.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 
-
----
-
-### 🔹 Student Council Election System — Secure Voting Platform**  
-**Tech:** React, Vite, TailwindCSS, MongoDB  
-**GitHub:** https://github.com/imaadi07/Student-Election  
-
-- Role-based login for students & admins  
-- Enforced one-vote-per-position rules  
-- Dynamic admin dashboards for managing nominations and results visibility  
-
----
-
-### 🔹 **Online Compiler — Secure Server-Side Execution Engine**  
-**Tech:** Node.js, Express.js, Docker, Child Process  
-**GitHub:** https://github.com/imaadi07/Online-Code-Compiler-Editor  
-
-- Users can write/execute Python code in the browser  
-- Execution sandboxed through Docker + timeouts  
-- Real-time I/O interface with safe exception handling  
-
----
-
-##  Certifications  
-- Cloud Computing Certification  
-- React.js Certification  
-- Web Development Certification  
-
 ---
 
 ##  GitHub Intelligence Dashboard  
@@ -107,14 +79,5 @@ I bring a solutions-oriented mindset backed by strong engineering fundamentals.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imaadi07&theme=react-dark&hide_border=true"/>
 </p>
-
----
-
-##  Mission Statement  
-
-I’m committed to long-term engineering excellence —  
-sharpening fundamentals, scaling my technical toolkit, and delivering real-world solutions that reflect ownership and discipline.
-
-Let’s collaborate and build something that creates impact.
 
 ---
