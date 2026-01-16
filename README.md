@@ -12,6 +12,9 @@ I thrive at the intersection of **software engineering + cloud infrastructure + 
 My guiding principle:  
 **Ship value. Learn aggressively. Build systems that scale.**
 
+![Profile Views](https://komarev.com/ghpvc/?username=imaadi07&color=blue)
+
+
 ---
 
 ##  Social Presence  
